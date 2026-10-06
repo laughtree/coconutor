@@ -36,7 +36,7 @@ Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-
 
 The game starts with the player placing a main base. The objective is to protect that base by collecting resources and building defensive structures before enemies appear.
 
-The map contains different resource areas. Each production building can only be placed on a compatible terrain type:
+The map contains different resource areas. Each production building can only be placed on a compatible terrain type: (My Part)
 
 - **Lumber Mill**: gathers wood
 - **Quarry**: gathers stone
@@ -56,7 +56,7 @@ Place main base
   -> Survive the level
 ```
 
-## Defensive Buildings
+## Defensive Buildings (My Part)
 
 The game includes multiple tower types for defending the base:
 
@@ -91,11 +91,11 @@ The lobby includes:
 
 ## Game Features
 
-### Mini Map
+### Mini Map (My Part)
 
 A mini map helps players understand the overall map layout and monitor important areas during gameplay.
 
-### Procedural Terrain
+### Procedural Terrain (My Part)
 
 The project uses Perlin noise to generate or shape map variation, giving the terrain a more organic layout.
 
@@ -107,7 +107,7 @@ Enemies use BFS pathfinding to navigate toward the player base. This allows enem
 
 The game includes animated UI/gameplay elements to make the lobby and in-game interactions feel more polished.
 
-### Art Direction
+### Art Direction (My Part)
 
 Coconuter uses a custom visual style for its buildings, map, and game interface.
 
