@@ -7,7 +7,7 @@ Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-
 ## Contribution Abstract
 
 此專案為軟體設計與實作課程的期末專案，由我與其他同學組成的 6 人團隊進行開發。
-構想為我所提出，參考 Rimworld 、 Mindustry 等作品，以塔防結合沙盒為核心玩法。
+最初構想為我所提出，參考 Rimworld 、 Mindustry 等作品，以塔防結合沙盒為核心玩法，由大家討論得到共識後依據時程與成員能力調整為如今版本。
 其中我所負責的項目如下，詳情可見 Media 段落中截圖與影片
 - 沙盒地圖的柏林雜訊地形生成
 - 小地圖
