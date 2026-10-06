@@ -2,7 +2,7 @@
 
 Coconuter is a web-based tower defense game built with Cocos Creator / Construct-style game development workflow. The player builds and protects a main base, gathers resources through production buildings, and places defensive towers to survive enemy waves at night.
 
-Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-fbad6.web.app/)
+Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-fbad6.web.app/) (目前因負責同學 firebase 已移除無法正常使用)
 
 ## Contribution Abstract
 
