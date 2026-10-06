@@ -4,25 +4,32 @@ Coconuter is a web-based tower defense game built with Cocos Creator / Construct
 
 Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-fbad6.web.app/)
 
+## Contribution Abstract
+
+此專案為軟體設計與實作課程的期末專案，由我與其他同學組成的 6 人團隊進行開發。
+構想為我所提出，參考 Rimworld 、 Mindustry 等作品，以塔防結合沙盒為核心玩法。
+其中我所負責的項目如下，詳情可見 Media 段落中截圖與影片
+- 沙盒地圖的柏林雜訊地形生成
+- 小地圖
+  
+  <img width="234" height="225" alt="圖片" src="https://github.com/user-attachments/assets/f1dedcb6-050c-4407-97ec-e79867585e9b" />
+
+- 相機移動控制，靠近地圖邊緣時施加阻尼並平滑回彈(可見 Media)
+- 遊戲內建築物、資源點等無外部素材可用的貼圖與動畫繪製
+- 砲台索敵機制與子彈邏輯(可見 Me)
+相關部分截圖如下:
+
+  
+其餘同學貢獻請見下表:
+
+<img width="819" height="415" alt="圖片" src="https://github.com/user-attachments/assets/5a872606-c28f-4131-a61e-f36ed15ffd83" />
+
 ## Media
 
 ![Coconuter gameplay overview](docs/images/gameplay-overview.jpg)
 
 - [Media gallery](docs/README.md)
 - [Day-night cycle GIF](docs/videos/day-night-cycle.gif)
-
-## Contribution Abstract
-
-此專案為軟體設計與實作課程的期末專案，由我與其他同學組成的 6 人團隊進行開發。
-構想為我所提出，參考 Rimworld 、 Mindustry 等作品，以塔防結合沙盒為核心玩法。
-其中我所負責的項目如下。
-- 沙盒地圖的柏林雜訊地形生成
-- 小地圖
-- 相機移動控制，靠近地圖邊緣時施加阻尼並平滑回彈
-- 主畫面介面、建築物、資源點的貼圖與動畫繪製
-- 砲台索敵機制與子彈邏輯
-其餘同學貢獻請見下表:
-<img width="819" height="415" alt="圖片" src="https://github.com/user-attachments/assets/5a872606-c28f-4131-a61e-f36ed15ffd83" />
 
 
 ## Game Overview
