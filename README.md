@@ -17,8 +17,6 @@ Play the deployed version: [https://coconuter-fbad6.web.app/](https://coconuter-
 - 相機移動控制，靠近地圖邊緣時施加阻尼並平滑回彈
 - 遊戲內建築物、資源點等無外部素材可用的貼圖與動畫繪製
 - 砲台索敵機制與子彈邏輯
-相關部分截圖如下:
-
   
 其餘同學貢獻請見下表:
 
